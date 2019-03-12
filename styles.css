@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Amiri|Fira+Sans+Condensed');
+
+body {
+    background-color: #e4e9eb;
+}
+
+.container {
+    border: 1px solid #3F0606;
+    font-family: 'Amiri', serif;
+    font-size: 1.2em;
+    background-color:white;
+    margin: 0 auto;
+    max-width: 1024px;
+}
+
+a {
+    text-decoration: none;
+    color: #338EFF;
+}
